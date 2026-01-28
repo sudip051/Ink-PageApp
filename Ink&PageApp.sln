@@ -5,11 +5,11 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ink&Page", "Ink&Page\Ink&Page.csproj", "{81FEEF8D-1FD1-4FCD-9D34-8443C251D3E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkPage.DataAccess", "InkPage.DataAccess\InkPage.DataAccess.csproj", "{4737DD64-CEBD-4CC3-BC16-98F02A559A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkPage.DataAccess", "InkPage.DataAccess\InkPage.DataAccess.csproj", "{0DF4DDC8-B98C-4621-B39E-937959201567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkPage.Models", "InkPage.Models\InkPage.Models.csproj", "{A96706EA-2C92-4397-8AF6-DDE049B05192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkPage.Models", "InkPage.Models\InkPage.Models.csproj", "{257FBF2B-3CDC-4C43-A660-E4DE5CD2C3C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InkPage.Utility", "InkPage.Utility\InkPage.Utility.csproj", "{3758C7A0-7180-42B7-8612-9B45B27DB1C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkPage.Utility", "InkPage.Utility\InkPage.Utility.csproj", "{EC9D4382-C8F9-4596-BFFA-6456DC33CF3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{81FEEF8D-1FD1-4FCD-9D34-8443C251D3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81FEEF8D-1FD1-4FCD-9D34-8443C251D3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81FEEF8D-1FD1-4FCD-9D34-8443C251D3E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4737DD64-CEBD-4CC3-BC16-98F02A559A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4737DD64-CEBD-4CC3-BC16-98F02A559A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4737DD64-CEBD-4CC3-BC16-98F02A559A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4737DD64-CEBD-4CC3-BC16-98F02A559A88}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A96706EA-2C92-4397-8AF6-DDE049B05192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A96706EA-2C92-4397-8AF6-DDE049B05192}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A96706EA-2C92-4397-8AF6-DDE049B05192}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A96706EA-2C92-4397-8AF6-DDE049B05192}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3758C7A0-7180-42B7-8612-9B45B27DB1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3758C7A0-7180-42B7-8612-9B45B27DB1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3758C7A0-7180-42B7-8612-9B45B27DB1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3758C7A0-7180-42B7-8612-9B45B27DB1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF4DDC8-B98C-4621-B39E-937959201567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF4DDC8-B98C-4621-B39E-937959201567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF4DDC8-B98C-4621-B39E-937959201567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF4DDC8-B98C-4621-B39E-937959201567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257FBF2B-3CDC-4C43-A660-E4DE5CD2C3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257FBF2B-3CDC-4C43-A660-E4DE5CD2C3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257FBF2B-3CDC-4C43-A660-E4DE5CD2C3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257FBF2B-3CDC-4C43-A660-E4DE5CD2C3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9D4382-C8F9-4596-BFFA-6456DC33CF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9D4382-C8F9-4596-BFFA-6456DC33CF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9D4382-C8F9-4596-BFFA-6456DC33CF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9D4382-C8F9-4596-BFFA-6456DC33CF3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,4 +20,8 @@
     <ProjectReference Include="..\InkPage.Models\InkPage.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
