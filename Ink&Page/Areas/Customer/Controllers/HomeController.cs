@@ -2,8 +2,9 @@ using System.Diagnostics;
 using Ink_Page.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Ink_Page.Controllers
+namespace Ink_Page.Areas.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
